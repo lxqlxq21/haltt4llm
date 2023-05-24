@@ -12,7 +12,7 @@ in widespread adoption of LLM's for real world purposes.
 | **GPT-3**             | 32.15%      | 220  | 7   | 55.67%    | 776  | 17  | 6.10%          | 26  | 32.25%         | 43  | 14  |
 | **Llama-7B-4bit**     | **83.51%**  | 614  | 3   | 49.75%    | 701  | 0   | 2.15%          | 18  | 8.38%          | 26  | 0   |
 | **Alpaca-7B-4bit**    | 26.66%      | 196  | 1   | 44.32%    | 624  | 1   | 0.00%          | 0   | 0.00%          | 0   | 0   |
-| **Honest-Alpaca-7B(Our model)**  | 79.38%      |      |     | 73.74%    |      |     | **82.78%**         |     |                |     |     |
+| **Honest-Alpaca-7B(Our model)**  | 79.38%      |      |     | 73.74%    |      |     | **82.78%**         |     | 62.58% |     |     |
 
 * **C** *number of correct answers*
 * **IDK** *number of 'I don't know' answers*
